@@ -1,0 +1,21 @@
+body {
+    background-image: url("mountain.jpg");
+    background-size: 1279px;
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 70px;
+    }
+
+h1{
+ color: #822a2a;
+ margin: 160px; 
+ font-family: 'Playfair Display', serif;
+ 
+}
+.text{
+    color: #822a2a;
+    font-family: 'Merriweather', serif;
+}
+#buton{
+    background-color:#ffcba4;
+}
